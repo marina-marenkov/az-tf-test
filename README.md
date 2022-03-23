@@ -1,2 +1,2 @@
 # az-tf-test
-terraform onn azure
+terraform on azure
